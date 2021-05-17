@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Bungee"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Unit One Deliverable"
+	}
+}

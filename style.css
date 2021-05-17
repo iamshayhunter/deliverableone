@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin: 48px;
+}
+header {
+    color: #7944e6;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+section{
+    background-color: #ff00ff;
+    padding: 40px 14px 14px 14px;
+}
+.white-section{
+    background-color: white;
+    font-size: 52px;
+}
+button{
+    align-items: center;
+    color: #7944e6;
+    padding: 0px;
+    font-size: 32px;
+    background:none;
+    font-family: 'Bungee', serif;
+    border: none;
+
+}.side-by-side-container{
+    display: flex-center;
+}
+img.large{
+    width: 500px;
+    height: 250px;
+}
+
+img.medium{
+    width: 400px;
+
+    height: 1000px;
+
+    ;
+}
